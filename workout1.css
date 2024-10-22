@@ -1,4 +1,7 @@
 .titlew1{
-    padding: 10px;
+    border: 2px solid green;
+    padding: 15px;
+    border-radius: 5px;
+    width: fit-content;
     background-color: azure;
 }

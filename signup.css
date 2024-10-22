@@ -1,8 +1,19 @@
-.signup{
+body {
+    background-color: rgb(60, 189, 150);
+    background-image: url('https://community.thriveglobal.com/wp-content/uploads/2020/03/Man-doing-situps-in-living-room.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+
+    text-align: center; 
     
-    height: 200px;
-    width: 300px;
-    background-color: aliceblue;
+}
 
-
+.sign {
+    background-color: rgb(181, 226, 196); 
+    border: 2px solid rgb(203, 236, 222); 
+    padding: 20px; 
+    border-radius: 5px; 
+    margin: 20px auto; 
+    width: fit-content; 
 }
