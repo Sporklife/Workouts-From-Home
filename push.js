@@ -5,7 +5,7 @@ let streak = parseInt(localStorage.getItem('streak')) || 0;
 document.getElementById('counter').innerText = counter;
 
 d
-function increment() {
+function addcount() {
     counter++; 
     streak++;  
     document.getElementById('counter').innerText = counter; 
